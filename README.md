@@ -3,7 +3,9 @@ Bart Massey
 
 ---
 
-*Your notes here.*
+Welp. Ends here with Part 1. Gets the right answer on the
+test input after *much* coaching. Does not get the right
+answer on the "real" input. I cannot see the bug.
 
 ---
 
