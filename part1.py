@@ -18,6 +18,11 @@ def main(filename):
                         ni, nj = i + di, j + dj
                         if 0 <= ni < len(schematic) and 0 <= nj < len(schematic[i]) and schematic[ni][nj].isdigit():
                             total += int(schematic[ni][nj])
+                            break
+                    else:
+                        continue
+                    break
+
     print(total)
 
 if __name__ == "__main__":
