@@ -3,9 +3,9 @@ Bart Massey
 
 ---
 
-Welp. Ends here with Part 1. Gets the right answer on the
-test input after *much* coaching. Does not get the right
-answer on the "real" input. I cannot see the bug.
+Went through *many* iterations on Part 1. After watching
+Copilot's pattern of mistakes, gave it a modified algorithm
+to try. This generated correct code.
 
 ---
 
